@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatthewRocheSL
+- 👋 Hi, I’m Matthew Roche
 
 <!---
 MatthewRocheSL/MatthewRocheSL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
